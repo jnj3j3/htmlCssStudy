@@ -34,6 +34,6 @@
   
 > hosting with github and [netlify](https://www.netlify.com/)
     <br/>
-*    [netlify address](https://main--profound-beijinho-2ace0f.netlify.app/)
-    <br/>
 *    [github address](https://jnj3j3.github.io/htmlCssStudy/)
+    <br/>
+*    [netlify address](https://main--profound-beijinho-2ace0f.netlify.app/)
