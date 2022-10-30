@@ -4,10 +4,11 @@
 
 >materialize
 > >materialize grid - columns
-> > >html
+> > >```html
       <div class="row">
       <div class="col right-align">
         <img src="images/profile.jpg" alt="홍길동의 얼굴 사진" />
       </div>
       <div class="col s2">
+      ```
 
