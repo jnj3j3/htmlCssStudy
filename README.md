@@ -32,7 +32,7 @@
       ...
   ```
   
-* hosting with github and netlify
+> hosting with github and netlify
     <br/>
     netlify address: https://main--profound-beijinho-2ace0f.netlify.app/
     <br/>
