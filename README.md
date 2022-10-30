@@ -32,6 +32,6 @@
       ...
   ```
   
- >hosting with github and netlify
- >>netlify address: https://main--profound-beijinho-2ace0f.netlify.app/
- >>github address: https://jnj3j3.github.io/htmlCssStudy/
+ *hosting with github and netlify
+  netlify address: https://main--profound-beijinho-2ace0f.netlify.app/
+  github address: https://jnj3j3.github.io/htmlCssStudy/
