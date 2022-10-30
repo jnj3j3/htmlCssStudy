@@ -1,7 +1,28 @@
 # htmlCssStudy
 ## HTML / CSS framework를 이용하여 만든 페이지입니다.
 > 사용언어 : [bulma](https://bulma.io/) / [bootstrap](https://getbootstrap.com/) / [materialize](https://materializecss.com/)
-* materialize
+
+* bulma - Tag
+  ```html
+  <ol>
+    <span class="tag is-primary is-medium">HTML</span>
+    <span class="tag is-link is-medium">CSS</span>
+    <span class="tag is-info is-medium">SASS</span>
+    ...
+```
+
+* bootstrap - Typography
+  ```html
+    <tr id="myname">
+      <td><p class="h2">홍길동</p></td>
+    </tr>
+    <tr>
+      <th><p class="h5">직업</p></th>
+      <td><p class="h6">개발자</p></td>
+      ...
+```
+
+* materialize - Columns
   ```html
   <div class="row">
       <div class="col right-align">
