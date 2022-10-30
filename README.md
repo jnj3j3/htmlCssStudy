@@ -1,6 +1,6 @@
 # htmlCssStudy
-## HTML / CSS framework를 이용하여 만든 페이지입니다.
-> 사용언어 : [bulma](https://bulma.io/) / [bootstrap](https://getbootstrap.com/) / [materialize](https://materializecss.com/)
+## website using HTML / CSS framework.
+> used css framework : [bulma](https://bulma.io/) / [bootstrap](https://getbootstrap.com/) / [materialize](https://materializecss.com/)
 
 * bulma - Tag
   ```html
@@ -31,3 +31,7 @@
   <div class="col s2">
       ...
   ```
+  
+ >hosting with github and netlify
+ >>netlify address: https://main--profound-beijinho-2ace0f.netlify.app/
+ >>github address: https://jnj3j3.github.io/htmlCssStudy/
