@@ -9,7 +9,7 @@
     <span class="tag is-link is-medium">CSS</span>
     <span class="tag is-info is-medium">SASS</span>
     ...
-```
+  ```
 
 * bootstrap - Typography
   ```html
@@ -20,7 +20,7 @@
       <th><p class="h5">직업</p></th>
       <td><p class="h6">개발자</p></td>
       ...
-```
+  ```
 
 * materialize - Columns
   ```html
