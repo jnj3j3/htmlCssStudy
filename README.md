@@ -1,7 +1,7 @@
 # htmlCssStudy
 ## HTML / CSS framework를 이용하여 만든 페이지입니다.
 > 사용언어 : [bulma](https://bulma.io/) / [bootstrap](https://getbootstrap.com/) / [materialize](https://materializecss.com/)
-
+* materialize
 >>```html
 >><div class="row">
 >>    <div class="col right-align">
